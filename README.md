@@ -7,7 +7,7 @@ Junyi
 
 - [x] Use the appropriate pandas methods to get the info on the data and describe it.
 - [x] List the column names in the dataset.
-- [ ] What is the most ordered item? How many exactly were ordered?
+- [x] What is the most ordered item? How many exactly were ordered?
 - [ ] How much revenue did this chipotle make?
 - [ ] How many orders were placed at this chipotle?
 - [ ] How many items cost more than $10?
