@@ -9,7 +9,7 @@ Junyi
 - [x] List the column names in the dataset.
 - [x] What is the most ordered item? How many exactly were ordered?
 - [x] How much revenue did this chipotle make?
-- [ ] How many orders were placed at this chipotle?
+- [x] How many orders were placed at this chipotle?
 - [ ] How many items cost more than $10?
 - [ ] List the name of all unique items in the dataset.
 - [ ] Create a bar graph of the top 5 items sold.
