@@ -11,7 +11,7 @@ Junyi
 - [x] How much revenue did this chipotle make?
 - [x] How many orders were placed at this chipotle?
 - [x] How many items cost more than $10?
-- [ ] List the name of all unique items in the dataset.
+- [x] List the name of all unique items in the dataset.
 - [ ] Create a bar graph of the top 5 items sold.
 - [ ] Create a pie chart showing the number of times each of the top 10 items were ordered.
 - [ ] Create a line graph showing how much money was spent on the top 10 items ordered.
